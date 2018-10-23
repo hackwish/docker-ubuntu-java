@@ -4,6 +4,9 @@ Another docker image build using Ubuntu LTS releases embedding Java Virtual Mach
 
 Based on the concept: https://github.com/ihcsim/docker-oraclejava
 
-## How to use
+## Tags
+- latest
+- oracle8
 
-$ docker run --rm hackwish/ubuntu-java:latest
+## How to use
+``$ docker run --rm hackwish/ubuntu-java:latest``
